@@ -1,0 +1,4 @@
+openai~=0.27.0
+pexpect~=4.8.0
+tqdm~=4.64.1
+werkzeug~=2.2.2

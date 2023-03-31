@@ -40,3 +40,7 @@ python3 agent.py "gpt-3.5-turbo" "print date and time"
 | retrieve the value of Europe's total population | ✅ [result](runs/gpt-3.5-turbo_retrieve_the_value_of_Europes_total_population.md) | 🔁 [result](runs/gpt-4_retrieve_the_value_of_Europes_total_population.md) |
 |                     implement a tutorial for jq | ❌ [result](runs/gpt-3.5-turbo_implement_a_tutorial_for_jq.md) | ✅ [result](runs/gpt-4_implement_a_tutorial_for_jq.md) |
 |                    establish peace in the world | ❌ [result](runs/gpt-3.5-turbo_establish_peace_in_the_world.md) | 🔁 [result](runs/gpt-4_establish_peace_in_the_world.md) |
+
+✅ goal achieved
+❌ goal missed
+🔁 endless loop
